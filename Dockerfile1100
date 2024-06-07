@@ -1,0 +1,3 @@
+FROM grafana/grafana:11.0.0
+LABEL maintainers="Kubernetes Authors"
+LABEL description="Prometheus需要这个镜像"
